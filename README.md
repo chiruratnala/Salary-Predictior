@@ -39,7 +39,7 @@ Follow these steps to run the application locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-    git clone [https://github.com/chiruratnala/Salary-Predictior.git](https://github.com/chiruratnala/Salary-Predictior.git)
+    git clone [https://github.com/chiruratnala/Salary-Predictor.git](https://github.com/chiruratnala/Salary-Predictior.git)
     cd Salary-Prediction
 ```
 
