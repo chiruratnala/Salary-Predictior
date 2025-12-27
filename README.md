@@ -47,11 +47,11 @@ Follow these steps to run the application locally on your machine.
  ```bash
   python -m venv venv
 ```
-# Windows
+ Windows
 ```bash
 venv\Scripts\activate
 ```
-# Mac/Linux
+ Mac/Linux
 ```bash
 source venv/bin/activate
 ```
