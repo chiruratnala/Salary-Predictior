@@ -48,9 +48,13 @@ Follow these steps to run the application locally on your machine.
   python -m venv venv
 ```
 # Windows
+```bash
 venv\Scripts\activate
+```
 # Mac/Linux
+```bash
 source venv/bin/activate
+```
 ### 3. Install Dependencies
  ```bash
 
